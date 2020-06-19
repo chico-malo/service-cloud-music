@@ -1,3 +1,3 @@
-FROM binaryify:netease_cloud_music_api
+FROM binaryify/netease_cloud_music_api
 
-RUN /bin/bash -c 'echo init ok!!!'
+RUN -c 'echo init ok!!!'
