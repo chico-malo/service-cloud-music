@@ -1,0 +1,8 @@
+{
+  "name": "service-cloud-music",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/chico-malo/service-cloud-music.git",
+  "author": "yangyao <873242789@qq.com>",
+  "license": "MIT"
+}
